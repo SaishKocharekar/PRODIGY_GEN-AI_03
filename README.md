@@ -49,9 +49,9 @@ A probabilistic model that predicts the next word based on the previous one or m
 - Improved formatting skills for generating clean, readable AI text output  
 
 📬 Connect With Me  
-  Tanmay Margaj  
-  🔗 www.linkedin.com/in/tanmay-margaj-5598542bb
-  📧 tanmaymargaj35@gmail.com
+  Saish Kocharekar  
+  🔗 www.linkedin.com/in/saish-kocharekar0916
+  📧saishkocharekar@gmail.com
 
 🏷️ Tags  
 #GenerativeAI #MarkovChain #Internship #TextGeneration #AIProject #ProdigyInfotech
